@@ -166,7 +166,7 @@ func DrawSnake(pos golibs.Coord, dType byte) {
 }
 
 /**
-* 在空白位置
+* 在空白位置上
 * 随机画一个食物
 **/
 func RandFood() {
